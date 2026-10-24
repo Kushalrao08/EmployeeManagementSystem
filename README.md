@@ -1,0 +1,1 @@
+[![Architecture diagram of kushalrao08/employeemanagementsystem](https://gitdiagram.com/kushalrao08/employeemanagementsystem/diagram.png)](https://gitdiagram.com/kushalrao08/employeemanagementsystem?utm_source=readme&utm_medium=picture)
